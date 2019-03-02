@@ -11,4 +11,6 @@ item1.ADR;type=WORK;type=pref:;;Champak Pragathi Towers\nSurvey No. 3/2, Hosur M
 item1.X-ABADR:in
 item2.URL;type=pref:www.emids.com
 item2.X-ABLabel:_$!<HomePage>!$_
+item3.URL;type=pref:www.linkedin.com/in/ravisghosh/
+item3.X-ABLabel:_$!<LinkedIn>!$_
 END:VCARD
