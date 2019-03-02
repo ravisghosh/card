@@ -6,9 +6,9 @@ FN: Ravi S Ghosh
 ORG:emids Technologies Pvt. Ltd.;
 TITLE:Project Manager
 EMAIL;type=INTERNET;type=WORK;type=pref:ravig@emids.com
-TEL;type=WORK;type=VOICE:+91 805 015 8015
-item1.ADR;type=WORK;type=pref:;;Champak Pragathi Towers\nSurvey No. 3/2, Hosur Main Road, Bommanahalli, Bangalore;;;560068;India
-item1.X-ABADR:sg
-item2.URL;type=pref:emids.com
+TEL;type=WORK;type=VOICE:+918050158015
+item1.ADR;type=WORK;type=pref:;;Champak Pragathi Towers\nSurvey No. 3/2, Hosur Main Road\nBommanahalli, Bangalore;;;560068;India
+item1.X-ABADR:in
+item2.URL;type=pref:www.emids.com
 item2.X-ABLabel:_$!<HomePage>!$_
 END:VCARD
